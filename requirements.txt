@@ -1,0 +1,22 @@
+# Haven Dependencies
+# Install with: pip3 install -r requirements.txt
+
+# Core
+numpy>=1.24.0
+Pillow>=10.0.0
+streamlit>=1.30.0
+requests>=2.31.0
+pytest>=8.0.0
+
+# Video
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.9
+
+# YouTube Upload (optional - only needed for upload)
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.1.1
+google-auth-oauthlib>=1.0.0
+
+# Note: ffmpeg must be installed separately
+# macOS: brew install ffmpeg
+# Ubuntu: sudo apt-get install ffmpeg

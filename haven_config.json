@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-18",
+  "mood": "Sleep",
+  "genre": "Ambient",
+  "activity": "Coding",
+  "canvas_color": "#0a0808",
+  "line_color": "#8b7db3",
+  "music_prompt": "Instrumental sleep ambient ambient music for coding. Slow evolving textures, seamless gentle ending, no vocals, no spoken words.",
+  "title": "3 HOURS of Sleep Ambient for Coding",
+  "description": "\ud83c\udfa7 3 HOURS of Sleep Ambient for Coding\n\nAmbient music for coding, deep work, and relaxation.\n\nThis music was created with LocalMusic AI.\n\n#ambientmusic #focusmusic #codingmusic",
+  "tags": [
+    "ambient music",
+    "focus music",
+    "study music",
+    "deep work music",
+    "ambient ambient"
+  ],
+  "target_duration_hours": 3,
+  "seed": 605348,
+  "visual_duration": 10,
+  "fps": 24,
+  "width": 1920,
+  "height": 1080,
+  "audio_file": "music/localmusic_2026-08-18_092335.wav",
+  "music_duration_seconds": 180,
+  "content_id": "4d22d467-6d8a-4c27-9766-d7dbab8fa720"
+}

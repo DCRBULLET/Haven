@@ -1,0 +1,17 @@
+{
+  "mood": "Focus",
+  "genre": "Ambient",
+  "activity": "Coding",
+  "canvas_color": "#08080c",
+  "line_color": "#4a90d9",
+  "music_prompt": "Instrumental deep-focus ambient music for coding. Slow evolving textures, seamless gentle ending, no vocals, no spoken words.",
+  "title": "3 HOURS of Deep Focus Ambient for Coding",
+  "description": "Ambient music for coding, deep work, and relaxation.\n\nThis music was created with AI assistance.",
+  "tags": ["ambient music", "focus music", "coding music"],
+  "target_duration_hours": 3,
+  "music_duration_seconds": 180,
+  "visual_duration": 10,
+  "fps": 24,
+  "width": 1920,
+  "height": 1080
+}

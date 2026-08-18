@@ -1,0 +1,13 @@
+[project]
+name = "haven"
+version = "0.1.0"
+description = "Human-reviewed ambient YouTube production workflow"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["test_audio_qa.py", "test_control.py", "test_prompt.py", "test_upload.py", "test_visuals.py"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
